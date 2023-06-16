@@ -5,6 +5,7 @@
 - Kim Lea Renicke
 - Natascha Klein
 - Florian Patruck
+- Marie-Soleil Strauch
 
 ## System requirements
 - [MAMP](https://www.mamp.info/)

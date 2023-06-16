@@ -164,6 +164,13 @@
                 overflow: auto;
             }
         }
+        a:menu-item {
+            color: rgb(0, 255, 34);
+        }
+        a:hover {
+            color: rgb(var(--color-primary-normal));
+        }
+
     </style>
 {% endblock %}
 {% block body %}
@@ -180,7 +187,7 @@
                         <a onclick="onNav()" class="nav-points" href="#home">Home</a>
                     </li>
                     <li class="menu-item">
-                        <a onclick="onNav()" class="nav-points" href="#hobby">Interessen</a>
+                        <a onclick="onNav()" class="nav-points" href="#hobby">Hobby</a>
                     </li>
                     <li class="menu-item">
                         <a onclick="onNav()" class="nav-points" href="#experience">Erfahrungen</a>
